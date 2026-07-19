@@ -73,4 +73,4 @@ This project demonstrates software concepts commonly used in automotive ECUs:
 
 ---
 
-**Author:** Harish Raji Govindarassou
+**Authors:** HARISH RAJI GOVINDARASSOU & DHANUSRI VEERAPPAN
